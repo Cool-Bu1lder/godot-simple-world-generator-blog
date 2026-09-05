@@ -4,7 +4,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
     site: 'https://cool-bu1lder.github.io',
-    base: '/',
+    base: '/godot-simple-world-generator-blog',
     fonts: [
         {
 			provider: fontProviders.local(),
