@@ -1,6 +1,6 @@
 ---
 title: 'Godot Simple World Generator'
-description: 'Lorem ipsum dolor sit amet'
+description: 'A Blog about my simple world generator for godot.'
 pubDate: 'Aug 18 2026'
 lastEdited: 'Aug 18 2026'
 heroImage: '../assets/godot-simple-world-generator.png'
